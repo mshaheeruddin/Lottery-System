@@ -1,2 +1,2 @@
 # Lottery-System
-implented on solidity
+implemented on solidity
